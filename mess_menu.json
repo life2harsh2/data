@@ -1,46 +1,39 @@
 {
   "menu": {
-    "MONDAY": {
-      "1": "ARHAR DAL",
-      "2": "MATAR PANEER",
-      "3": "RICE",
-      "4": "CHAPATTI",
-      "5": "ACHAR",
-      "8": "SALAD",
-      "7": "BESON BURFFI"
+    "Monday": {
+      "breakfast": "Uttapam - Chutney, Bread Jam, Tea, Cold Milk, Fruit",
+      "lunch": "Methi Aloo, Chana Dal, Raita, Rice, Roti, Achar, Salad, Besan Ki Burfi",
+      "dinner": "Matar Paneer, Egg Curry, Mix Dal, Rice, Roti, Achar, Salad, Milk"
     },
-    "TUESDAY": {
-      "1": "RAJMAH DAL",
-      "2": "GOBHI ALOO MASALA",
-      "3": "RICE",
-      "4": "CHAPATTI",
-      "5": "ACHAR",
-      "8": "SALAD",
-      "7": "MIX VEG RAITA"
+    "Tuesday": {
+      "breakfast": "Stuff Parantha, Dahi, Achar, Bread Jam, Tea, Fruit",
+      "lunch": "Lauki Ka Kofta, White Matar, Raita, Rice, Roti, Achar, Salad, Moong Dal Halwa",
+      "dinner": "Veg Kolhapuri, Dal Fry, Rice Roti, Achar, Salad, Milk"
     },
-    "WEDNESDAY": {
-      "1": "DAL MAKHANI",
-      "2": "MIX VEG..",
-      "3": "RICE",
-      "4": "CHAPATTI",
-      "5": "ACHAR",
-      "8": "SALAD",
-      "7": "GULAB JAMUN"
+    "Wednesday": {
+      "breakfast": "Coleslaw Sandwich, Bread Omelette, Jam, Tea, Cold Coffee, Fruit",
+      "lunch": "Cabbage Aloo Matar, Rajma, Rice, Roti, Achar, Salad, Semiya Ki Kheer",
+      "dinner": "Dum Aloo, Masoor Sabut Dal, Rice, Roti, Achar, Salad, Milk"
     },
-    "THURSDAY": {
-      "1": "CHHOLE",
-      "2": "BHATURE",
-      "3": "JEERA RICE",
-      "4": "ACHARI ALOO",
-      "5": "ACHAR",
-      "8": "LACCHA ONION",
-      "7": "BUNDI RAITA"
+    "Thursday": {
+      "breakfast": "Aloo Sandwich, Bread Jam, Tea, Cold Milk, Fruit",
+      "lunch": "Shimla Mirch Aloo, Kadhi Pakoda, Rice, Roti, Achar, Salad, Balu Shahi",
+      "dinner": "Sambhar - Vada, Chutney, Aloo Tamatar, Lemon Rice, Roti, Achar, Milk"
     },
-    "FRIDAY": {
-      "4": "15th AUGUST"
+    "Friday": {
+      "breakfast": "Mix Pakoda, Veg Sandwich, Jalebi, Bread Jam, Tea, Green Chutney, Fruit",
+      "lunch": "Chole, Dahi - Bhalla, Veg Pulao, Kachori, Achar, Salad",
+      "dinner": "Malai Kofta, Moong Masoor Dal, Rice, Roti, Achar, Salad, Milk"
     },
-    "SATURDAY": {
-      "1": "KRISHNA JANMASTMI"
+    "Saturday": {
+      "breakfast": "Poha, Daliya, Bread Jam, Tea, Fruit",
+      "lunch": "Beans Aloo, Arhar Dal, Raita, Rice, Roti, Achar, Salad, Nariyal Ka Ladoo",
+      "dinner": "Paneer Makhani, Aloo Masala, Pulao, Poori, Achar, Salad, Milk"
+    },
+    "Sunday": {
+      "breakfast": "Macaroni, Bread Butter Jam, Tea, Cold Coffee, Fruit",
+      "lunch": "Gatta Curry, Dal Fry, Rice, Roti, Achar, Salad, Custard",
+      "dinner": "Aloo Matar, Urad Sabut Dal, Rice, Roti, Achar, Salad, Butter Milk"
     }
   }
 }
