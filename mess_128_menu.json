@@ -1,46 +1,58 @@
 {
   "menu": {
-    "monday": {
-      "1": "ARHAR DAL",
-      "2": "MATAR PANEER",
+    "Monday": {
+      "1": "PANJABI DAL TADKA",
+      "2": "PANEER DO PYAZA",
+      "3": "JEERA RICE",
+      "4": "CHAPATTI",
+      "5": "ACHAR",
+      "8": "SALAD",
+      "7": "SUJI HALWA"
+    },
+    "Tuesday": {
+      "1": "KADHI PAKODA",
+      "2": "JEERA ALOO",
       "3": "RICE",
       "4": "CHAPATTI",
       "5": "ACHAR",
       "8": "SALAD",
-      "7": "BESON BURFFI"
+      "7": "JALEBI PAPAD"
     },
-    "tuesday": {
-      "1": "RAJMAH DAL",
-      "2": "GOBHI ALOO MASALA",
-      "3": "RICE",
-      "4": "CHAPATTI",
-      "5": "ACHAR",
-      "8": "SALAD",
-      "7": "MIX VEG RAITA"
-    },
-    "wednesday": {
+    "Wednesday": {
       "1": "DAL MAKHANI",
-      "2": "MIX VEG..",
+      "2": "MIX VEG",
       "3": "RICE",
       "4": "CHAPATTI",
       "5": "ACHAR",
       "8": "SALAD",
-      "7": "GULAB JAMUN"
+      "7": "SEMIYA KHEER"
     },
-    "thursday": {
+    "Thursday": {
       "1": "CHHOLE",
       "2": "BHATURE",
-      "3": "JEERA RICE",
-      "4": "ACHARI ALOO",
+      "3": "RICE",
+      "4": "SOUTH INDIAN ALOO",
       "5": "ACHAR",
       "8": "LACCHA ONION",
       "7": "BUNDI RAITA"
     },
-    "friday": {
-      "4": "15th AUGUST"
+    "Friday": {
+      "1": "RAJMAH RASEELA",
+      "2": "SHIMLA MIRCH ALOO",
+      "3": "MATAR RICE",
+      "4": "CHAPATTI",
+      "5": "ACHAR",
+      "8": "SALAD",
+      "7": "DAHI BHALLE"
     },
-    "saturday": {
-      "1": "KRISHNA JANMASTMI"
+    "Saturday": {
+      "1": "KHATTA \u041c\u0415\u0415\u0422\u041d\u0410 PUMPKIN",
+      "2": "BLACK CHANA DAL",
+      "3": "VEG PULAO",
+      "4": "BEDMI PURI",
+      "5": "ACHAR",
+      "8": "SALAD",
+      "7": "PAYSSAM KHEER"
     }
   }
 }
