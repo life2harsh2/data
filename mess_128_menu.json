@@ -1,58 +1,58 @@
 {
   "menu": {
     "Monday": {
-      "1": "PANJABI DAL TADKA",
-      "2": "PANEER DO PYAZA",
-      "3": "JEERA RICE",
-      "4": "CHAPATTI",
-      "5": "ACHAR",
-      "8": "SALAD",
-      "7": "SUJI HALWA"
+      "1": "Jeera Rice",
+      "2": "Arhar Dal Tadka",
+      "3": "Kadhai Paneer",
+      "4": "Chapatti",
+      "5": "Pickle",
+      "8": "Salad",
+      "7": "Rice Kheer"
     },
     "Tuesday": {
-      "1": "KADHI PAKODA",
-      "2": "JEERA ALOO",
-      "3": "RICE",
-      "4": "CHAPATTI",
-      "5": "ACHAR",
-      "8": "SALAD",
-      "7": "JALEBI PAPAD"
+      "1": "Plain Rice",
+      "2": "Rajmah Masala",
+      "3": "Bhindi Do Pyaza",
+      "4": "Chapatti",
+      "5": "Pickle",
+      "8": "Salad",
+      "7": "Ghia Raita"
     },
     "Wednesday": {
-      "1": "DAL MAKHANI",
-      "2": "MIX VEG",
-      "3": "RICE",
-      "4": "CHAPATTI",
-      "5": "ACHAR",
-      "8": "SALAD",
-      "7": "SEMIYA KHEER"
+      "1": "Plain Rice",
+      "2": "Kadhi Pakoda",
+      "3": "Jeera Aloo",
+      "4": "Chapatti",
+      "5": "Pickle",
+      "8": "Salad",
+      "7": "Jalebi"
     },
     "Thursday": {
-      "1": "CHHOLE",
-      "2": "BHATURE",
-      "3": "RICE",
-      "4": "SOUTH INDIAN ALOO",
-      "5": "ACHAR",
-      "8": "LACCHA ONION",
-      "7": "BUNDI RAITA"
+      "1": "Jeera Rice",
+      "2": "Chole",
+      "3": "South India Aloo",
+      "4": "Bhature",
+      "5": "Pickle",
+      "8": "Laccha Onion",
+      "7": "Boondi Raita"
     },
     "Friday": {
-      "1": "RAJMAH RASEELA",
-      "2": "SHIMLA MIRCH ALOO",
-      "3": "MATAR RICE",
-      "4": "CHAPATTI",
-      "5": "ACHAR",
-      "8": "SALAD",
-      "7": "DAHI BHALLE"
+      "1": "Plain Rice",
+      "2": "Dal Makhani",
+      "3": "Mix Veg",
+      "4": "Chapatti",
+      "5": "Pickle",
+      "8": "Salad",
+      "7": "Gulab Jamub"
     },
     "Saturday": {
-      "1": "KHATTA \u041c\u0415\u0415\u0422\u041d\u0410 PUMPKIN",
-      "2": "BLACK CHANA DAL",
-      "3": "VEG PULAO",
-      "4": "BEDMI PURI",
-      "5": "ACHAR",
-      "8": "SALAD",
-      "7": "PAYSSAM KHEER"
+      "1": "Veg Biryani",
+      "2": "Dal Kashmiri",
+      "3": "Tori Masala",
+      "4": "Nan/Roti",
+      "5": "Pickle",
+      "8": "Salad",
+      "7": "Mix Raita"
     }
   }
 }
