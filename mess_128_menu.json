@@ -1,9 +1,9 @@
 {
   "menu": {
     "Monday": {
-      "1": "Jeera Rice",
+      "1": "Plain Rice",
       "2": "Arhar Dal Tadka",
-      "3": "Kadhai Paneer",
+      "3": "Matter Paneer",
       "4": "Chapatti",
       "5": "Pickle",
       "8": "Salad",
@@ -11,21 +11,21 @@
     },
     "Tuesday": {
       "1": "Plain Rice",
-      "2": "Rajmah Masala",
-      "3": "Bhindi Do Pyaza",
+      "2": "Rajmah Dal",
+      "3": "Gobhi, Matter, Aloo",
       "4": "Chapatti",
       "5": "Pickle",
       "8": "Salad",
-      "7": "Ghia Raita"
+      "7": "Bundi Laddu"
     },
     "Wednesday": {
       "1": "Plain Rice",
-      "2": "Kadhi Pakoda",
-      "3": "Jeera Aloo",
+      "2": "Malai Kofta",
+      "3": "Moong Dal Sabut",
       "4": "Chapatti",
       "5": "Pickle",
       "8": "Salad",
-      "7": "Jalebi"
+      "7": "Semiya Kheer"
     },
     "Thursday": {
       "1": "Jeera Rice",
@@ -43,16 +43,16 @@
       "4": "Chapatti",
       "5": "Pickle",
       "8": "Salad",
-      "7": "Gulab Jamub"
+      "7": "Suji Halwa"
     },
     "Saturday": {
-      "1": "Veg Biryani",
-      "2": "Dal Kashmiri",
-      "3": "Tori Masala",
-      "4": "Nan/Roti",
+      "1": "Plain Rice",
+      "2": "Kala Chana",
+      "3": "Sita Fal",
+      "4": "Bedmi Puri",
       "5": "Pickle",
       "8": "Salad",
-      "7": "Mix Raita"
+      "7": "Sabudana Kheer"
     }
   }
 }
