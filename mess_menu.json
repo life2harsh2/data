@@ -1,46 +1,46 @@
 {
   "menu": {
-    "03.11.25": {
-      "day": "Monday",
-      "breakfast": "Mix Veg Parantha, Dahi, Achar, Bread Jam, Tea, Fruit",
-      "lunch": "Veg Kofta, Kala Chana, Raita, Rice, Roti, Achar, Salad, Boondi Ka Ladoo",
-      "dinner": "Keema Matar Aloo, Masoor Dal, Rice, Roti, Achar, Salad, Milk"
+    "Monday": {
+      "date": "10.11.25",
+      "breakfast": "Bread Pakoda, Green Chutney, Bread Jam, Tea, Milk, Fruit",
+      "lunch": "Parval Aloo, Arhar Dal, Raita, Rice, Roti, Achar, Salad, Jalebi",
+      "dinner": "Beans Aloo, Rajma, Rice, Roti, Achar, Salad, Milk"
     },
-    "04.11.25": {
-      "day": "Tuesday",
-      "breakfast": "Chana - Poori, Achar, Bread Jam, Tea, Milk, Fruit",
-      "lunch": "Khoya Matar Makhana, Arhar Dal, Raita, Rice, Roti, Achar, Salad, Nariyal Ki Burfi",
-      "dinner": "Aloo Masala Dry, Dhaba Dal, Rice, Roti, Achar, Salad, Milk"
+    "Tuesday": {
+      "date": "11.11.25",
+      "breakfast": "Poha, Daliya, Bread Jam, Tea, Fruit",
+      "lunch": "Chole, Kadoo, Raita, Rice, Poori, Achar, Salad, Halwa",
+      "dinner": "Gobhi Aloo, Mix Dal, Jeera Rice, Roti, Achar, Salad, Milk"
     },
-    "05.11.25": {
-      "day": "Wednesday",
-      "breakfast": "Uttapam - Chutney, Bread Jam, Tea, Milk, Fruit",
-      "lunch": "Cabbage Aloo Matar, Urad Sabut Dal, Rice, Roti, Achar, Salad, Kheer (Sava Rice)",
-      "dinner": "Palak Paneer, Egg Curry, Mix Dal, Rice, Roti, Achar, Salad, Milk"
+    "Wednesday": {
+      "date": "1211.25",
+      "breakfast": "Coleslaw Sandwich, Bread Omelette, Bread Jam, Tea, Milk, Fruit",
+      "lunch": "Methi Aloo, Dal Fry, Rice, Roti, Achar, Salad, Semiya Ki Kheer",
+      "dinner": "Nutree Matar, Dal Makhani, Roti, Achar, Salad, Milk"
     },
-    "06.11.25": {
-      "day": "Thursday",
-      "breakfast": "Sabji-Parantha, Achar, Bread Jam, Tea, Milk, Fruit",
-      "lunch": "Methi Aloo, Kadhi Pakoda, Rice, Roti, Achar, Salad, Jalebi",
-      "dinner": "Kadal Veg, Dal Muglai, Rice, Roti, Achar, Salad, Milk"
+    "Thursday": {
+      "date": "13.11.25",
+      "breakfast": "Sabji - Kachori, Achar, Bread Jam, Tea, Milk, Fruit",
+      "lunch": "Mix Veg, Kadhi Pakoda, Rice, Roti, Achar, Salad, Atta Ka Laddoo",
+      "dinner": "Dhaniya Wale Aloo, Dal Fry, Rice, Roti, Achar, Salad, Milk"
     },
-    "07.11.25": {
-      "day": "Friday",
-      "breakfast": "Aloo Sandwich, Boiled Egg, Bread Jam, Tea, Milk, Fruit",
-      "lunch": "Shima Mirch Aloo, Rajma, Raita, Rice, Roti, Achar, Salad, Khoye Ki Burfi",
-      "dinner": "Kashmiri Dum Aloo, Veg Biryani, Raita, Roti, Achar, Salad, Papad, Green Chutney"
+    "Friday": {
+      "date": "14.11.25",
+      "breakfast": "Aloo Sandwich, Bread Jam, Tea, Milk, Fruit",
+      "lunch": "Lauki Ki Sabji, Urad Sabut Dal, Rice, Roti, Achar, Salad, Custard",
+      "dinner": "Paneer Makhani, Egg Curry, Masoor Dal, Rice, Roti, Achar, Salad, Milk"
     },
-    "08.11.25": {
-      "day": "Saturday",
-      "breakfast": "Poha, Bread Butter Jam, Tea, Milk, Fruit",
-      "lunch": "Chole, Aloo Masala, Raita, Rice, Poori, Achar, Salad, Halwa",
-      "dinner": "Arbi Ki Sabji, Arhar Dal, Jeera Rice, Roti, Achar, Salad, Milk"
+    "Saturday": {
+      "date": "15.11.25",
+      "breakfast": "Macaroni, Bread Butter Jam, Tea, Milk, Fruit",
+      "lunch": "Kashmiri Dum Aloo, Veg Biryani, Raita, Roti, Achar, Salad, Papad, Green Chutney, Moong Dal Halwa",
+      "dinner": "Veg Manchurian, Fried Rice, Aloo Tamatar, Parantha, Achar, Milk"
     },
-    "09.11.25": {
-      "day": "Sunday",
-      "breakfast": "Pav - Bhaji, Bread Jam, Tea, Milk, Fruit",
-      "lunch": "Paneer Masala, Dal Makhani, Rice, Roti, Achar, Salad, Besan Ki Burfi",
-      "dinner": "Lauki Ka Kofta, Moong Masoor Dal, Rice, Roti, Achar, Salad, Milk"
+    "Sunday": {
+      "date": "16.11.25",
+      "breakfast": "Namkeen Semiya, Cocktail Sandwich, Bread Jam, Tea, Milk, Fruit",
+      "lunch": "Matar Paneer, Masoor Sabut Dal, Raita, Rice, Roti, Achar, Salad, Besan Ka Ladoo",
+      "dinner": "Shimla Mirch Aloo, Dal Tadka, Rice, Ro, Achar, Salad, Milk"
     }
   }
 }
