@@ -1,58 +1,5 @@
 {
   "menu": {
-    "Monday": {
-      "1": "Plain Rice",
-      "2": "Arhar Dal Tadka",
-      "3": "Matter Paneer",
-      "4": "Chapatti",
-      "5": "Pickle",
-      "8": "Salad",
-      "7": "Rice Kheer"
-    },
-    "Tuesday": {
-      "1": "Plain Rice",
-      "2": "Rajmah Dal",
-      "3": "Gobhi, Matter, Aloo",
-      "4": "Chapatti",
-      "5": "Pickle",
-      "8": "Salad",
-      "7": "Bundi Laddu"
-    },
-    "Wednesday": {
-      "1": "Plain Rice",
-      "2": "Malai Kofta",
-      "3": "Moong Dal Sabut",
-      "4": "Chapatti",
-      "5": "Pickle",
-      "8": "Salad",
-      "7": "Semiya Kheer"
-    },
-    "Thursday": {
-      "1": "Jeera Rice",
-      "2": "Chole",
-      "3": "South India Aloo",
-      "4": "Bhature",
-      "5": "Pickle",
-      "8": "Laccha Onion",
-      "7": "Boondi Raita"
-    },
-    "Friday": {
-      "1": "Plain Rice",
-      "2": "Dal Makhani",
-      "3": "Mix Veg",
-      "4": "Chapatti",
-      "5": "Pickle",
-      "8": "Salad",
-      "7": "Suji Halwa"
-    },
-    "Saturday": {
-      "1": "Plain Rice",
-      "2": "Kala Chana",
-      "3": "Sita Fal",
-      "4": "Bedmi Puri",
-      "5": "Pickle",
-      "8": "Salad",
-      "7": "Sabudana Kheer"
-    }
+  -
   }
 }
