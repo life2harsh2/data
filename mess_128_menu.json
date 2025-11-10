@@ -1,0 +1,58 @@
+{
+  "menu": {
+    "Monday": {
+      "1": "Plain Rice",
+      "2": "Arhar Dal Tadka",
+      "3": "Dum Aloo",
+      "4": "Chapati",
+      "5": "Pickle",
+      "8": "Mix Salad",
+      "7": "Rice Kheer"
+    },
+    "Tuesday": {
+      "1": "Plain Rice",
+      "2": "Rajmah Raseela",
+      "3": "Mix Veg.",
+      "4": "Chapati",
+      "5": "Pickle",
+      "8": "Salad",
+      "7": "Boondi Raita"
+    },
+    "Wednesday": {
+      "1": "Plain Rice",
+      "2": "Kadhi Pakoda",
+      "3": "South Indian Aloo",
+      "4": "Chapati",
+      "5": "Pickle",
+      "8": "Salad",
+      "7": "Jalebi"
+    },
+    "Thursday": {
+      "1": "Plain Rice",
+      "2": "Chole",
+      "3": "Gobhi,Aloo",
+      "4": "Bhature",
+      "5": "Pickle",
+      "8": "Laccha Onion",
+      "7": "Veg Raita"
+    },
+    "Friday": {
+      "1": "Plain Rice",
+      "2": "Dal Makhni",
+      "3": "Shahi Paneer",
+      "4": "Chapati",
+      "5": "Pickle",
+      "8": "Salad",
+      "7": "Besan Burfi"
+    },
+    "Saturday": {
+      "1": "Lemon Rice",
+      "2": "Sambhar",
+      "3": "Veg Poriyal",
+      "4": "Palak Prantha",
+      "5": "Pickle",
+      "8": "Salad",
+      "7": "Tomato Chutny"
+    }
+  }
+}
