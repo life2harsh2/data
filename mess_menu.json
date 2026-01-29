@@ -1,40 +1,47 @@
 {
-  "last_updated": "2026-01-19T06:44:32Z",
+  "last_updated": "2026-01-29T13:44:08Z",
   "menu": {
-    "Monday 19.01.26": {
-      "Breakfast": "Paneer Bhurji, Parantha, Achar, Bread Jam, Tea, Milk, Fruit",
-      "Lunch": "Veg Kofta, Kala Chana, Raita, Rice, Roti, Achar, Salad, Khoye Ki Burfi",
-      "Dinner": "Aloo Matar, Dal Muglai, Rice, Roti, Achar, Salad, Milk"
+    "Monday": {
+      "date": "26.01.26",
+      "Breakfast": "Mix Pakoda, Veg Sandwich, Jalebi, Bread Jam, Green Chutney, Tea, Fruit",
+      "Lunch": "Chole, Veg Pulao, Dahi Bhalla, Bahtua Ki Kachori, Achar, Salad",
+      "Dinner": "Aloo Masala Dry, Dhaba Dal, Rice, Roti, Achar, Salad, Milk"
     },
-    "Tuesday 20.01.26": {
-      "Breakfast": "Namkeen Semiya, Cocktail Sandwich, Bread Jam, Tea, Milk, Fruit",
-      "Lunch": "Chole, Kaddu, Raita, Rice, Bahtua Ki Poori Achar, Salad, Halwa",
-      "Dinner": "Kadai Veg, Masoor Sabut Dal, Rice, Roti, Achar, Salad, Milk"
+    "Tuesday": {
+      "date": "27.01.26",
+      "Breakfast": "Mix Veg Sandwich, Bread Jam, Tea, Milk, Fruit",
+      "Lunch": "Matar Paneer, Lobiya, Raita, Rice, Roti, Achar, Salad, Khoye ki Burfi",
+      "Dinner": "Mix Veg, Chana Dal, Rice, Roti, Achar, Salad, Milk"
     },
-    "Wednesday 21.01.26": {
-      "Breakfast": "Macaroni, Bread Butter Jam, Tea, Milk, Fruit",
-      "Lunch": "Cabbage Matar Aloo, Dal Tadka, Raita, Rice, Roti, Achar, Salad, Besan Ka Ladoo",
-      "Dinner": "Paneer Do Pyaja, Egg Curry, Mix Dal, Rice, Roti, Achar, Salad, Milk"
+    "Wednesday": {
+      "date": "28.01.26",
+      "Breakfast": "Upma, Daliya, Bread Jam, Tea, Fruit",
+      "Lunch": "Dum Aloo, Rajma, Raita, Rice, Roti, Achar, Salad, Besan Ki Burfi",
+      "Dinner": "Nutree Matar, Arhar Dal, Rice, Roti, Achar, Salad, Milk"
     },
-    "Thursday 22.01.26": {
-      "Breakfast": "Poha, Daliya, Bread Jam, Tea, Fruit",
-      "Lunch": "Aloo Pyaj, Kadhi Pakoda, Rice, Roti, Achar, Salad, Jalebi",
-      "Dinner": "Methi Malai Matar, Dal Makhani, Jeera Rice, Parantha, Achar, Salad, Milk"
+    "Thursday": {
+      "date": "29.01.26",
+      "Breakfast": "Poha, Cocktail Sandwich, Bread Jam, Tea, Milk, Fruit",
+      "Lunch": "Gobhi Aloo, Kadhi Pakoda, Rice, Roti, Achar, Salad, Nariyal Ka Ladoo",
+      "Dinner": "Palak Kofta, Dal Darbari, Roti, Achar, Salad, Milk"
     },
-    "Friday 23.01.26": {
-      "Breakfast": "Aloo Sandwich, Boiled Egg, Bread Jam, Tea, Milk, Fruit",
-      "Lunch": "Gajar Matar Aloo, Rajma, Raita, Rice, Roti, Achar, Salad, Nariyal Ki Burfi",
-      "Dinner": "Gobhi Masala, Arhar Dal, Rice, Roti, Achar, Salad, Milk"
+    "Friday": {
+      "date": "30.01.26",
+      "Breakfast": "Coleslaw Sandwich, French Toast, Bread Jam, Tea, Milk, Fruit",
+      "Lunch": "Jeera Aloo, Dal Tadka, Raita, Rice, Roti, Achar, Salad, Balu Shahi",
+      "Dinner": "Gatta Curry, Dal Fry, Jeera Rice, Roti, Achar, Salad, Milk"
     },
-    "Saturday 24.01.26": {
-      "Breakfast": "Kachori, Dahi, Green Chutney, Achar, Bread Jam, Tea, Fruit",
-      "Lunch": "Sarso Ka Saag, Chana Dal, Raita, Rice, Roti, Achar, Salad, Gajar Ka Halwa",
-      "Dinner": "Beans Aloo, Moong Masoor Dal, Rice, Roti, Achar, Salad, Milk"
+    "Saturday": {
+      "date": "31.01.26",
+      "Breakfast": "Uttapam - Chutney, Bread Jam, Tea, Milk, Fruit",
+      "Lunch": "Veg Keema, Arhar Dal, Rice, Roti, Achar, Salad, Semiya Ki Kheer",
+      "Dinner": "Kashmiri Dum Aloo, Veg Biryani, Raita, Roti, Achar, Salad, Chutney, Papad"
     },
-    "Sunday 25.01.26": {
-      "Breakfast": "Pao - Bhaji, Bread Jam, Tea, Fruit",
-      "Lunch": "Methi Aloo, Dal Amritsari, Rice, Roti, Achar, Salad, Sabudana Ki Kheer",
-      "Dinner": "Sambhar - Vada, Chutney, Aloo Tamatar, Lemon Rice, Roti, Achar, Milk"
+    "Sunday": {
+      "date": "01.02.26",
+      "Breakfast": "Matar - Kulcha, Bread Jam, Tea, Milk, Fruit",
+      "Lunch": "Spring Onion, Masoor Dal, Raita, Rice, Roti, Achar, Salad, Boondi Ka Ladoo",
+      "Dinner": "Paneer Makhani, Egg Curry, Mix Dal, Rice, Roti, Achar, Salad, Milk"
     }
   }
 }
