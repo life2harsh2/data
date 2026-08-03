@@ -1,47 +1,40 @@
 {
-  "last_updated": "2026-07-27T05:19:17Z",
+  "last_updated": "2026-08-03T03:35:29Z",
   "menu": {
-    "Monday": {
-      "date": "27.07.26",
-      "breakfast": "Bread Pakoda, Bread Butter Jam, Tea, Cold Milk, Fruit",
-      "lunch": "Aloo Masala, Kala Chana, Raita, Rice, Roti, Achar, Salad, Nariyal Ka Ladoo",
-      "dinner": "Samabhar - Vada, Chutney Lemon Rice, Jeera Aloo, Roti, Achar, Milk"
+    "Monday (03.08.26)": {
+      "breakfast": "Aloo Sandwich, Bread Jam, Tea, Cold Milk, Fruit",
+      "lunch": "Aloo Masala Dry, Arhar Dal, Raita, Rice, Roti, Achar, Salad, Atta Ka Ladoo",
+      "dinner": "Veg Keema, Rajma, Rice, Roti, Achar, Salad, Green Chutney, Milk"
     },
-    "Tuesday": {
-      "date": "28.07.26",
-      "breakfast": "Poha, Veg Sandwich, Bread Jam, Tea, Cold Coffee, Fruit",
-      "lunch": "Chole, Dahi Bhalla, Veg Pulao, Kachori, Achar, Salad, Halwa",
-      "dinner": "Malai Kofta, Masoor Sabut Dal, Rice, Roti, Achar, Salad, Milk"
+    "Tuesday (04.08.26)": {
+      "breakfast": "Sabji - Parantha, Achar, Bread Jam, Tea, Cold Coffee, Fruit",
+      "lunch": "Tinda Masala, Dal Makahani, Rice, Roti, Achar, Salad, Kheer",
+      "dinner": "Palak Paneer, Mix Dal, Rice, Roti, Achar, Salad, Milk"
     },
-    "Wednesday": {
-      "date": "29.07.26",
-      "breakfast": "Macaroni, Bread Butter Jam, Tea, Cold Milk, Fruit",
-      "lunch": "Cabbage Matar, Urad Sabut Dal, Rice, Roti, Achar, Salad, Semiya Ki Kheer",
-      "dinner": "Paneer Do Pyaja, Egg Curry, Masoor Dal, Rice, Roti, Achar, Salad, Milk"
+    "Wednesday (05.08.26)": {
+      "breakfast": "Coleslaw Sandwich, Bread Omelette Jam, Tea, Cold Milk, Fruit",
+      "lunch": "Amritsari Aloo, White Matar, Raita, Rice, Roti, Achar, Salad, Besan Ka Ladoo",
+      "dinner": "Bhindi Do Pyaja, Chana Dal, Rice, Roti, Achar, Salad, Milk"
     },
-    "Thursday": {
-      "date": "30.07.26",
-      "breakfast": "Sabji - Poori, Bread Jam, Tea, Cold Coffee, Fruit",
-      "lunch": "Methi Aloo, Kadhi Pakoda, Rice, Roti, Achar, Salad, Jalebi",
-      "dinner": "Veg Kolhapuri, Arhar Dal, Rice, Roti, Achar, Salad, Milk"
+    "Thursday (06.08.26)": {
+      "breakfast": "Namkeen Semiya, Veg Sandwich, Bread Jam, Tea, Cold Coffee, Fruit",
+      "lunch": "Mix Veg, Kadhi Pakoda, Rice, Roti, Achar, Salad, Jalebi",
+      "dinner": "Veg Kofta, Urad Sabut Dal, Rice, Roti, Achar, Salad, Milk"
     },
-    "Friday": {
-      "date": "31.07.26",
-      "breakfast": "Coleslaw Sandwich, French Toast, Bread Jam, Tea, Cold Milk, Fruit",
-      "lunch": "Lauki Ki Sabji, Rajma, Raita, Rice, Roti, Achar, Salad, Boondi Ka Ladoo",
-      "dinner": "Aloo Masala Dry, Punchratan Dal, Rice, Roti, Achar, Salad, Milk"
+    "Friday (07.08.26)": {
+      "breakfast": "Poha, Daliya, Bread Jam, Tea, Fruit",
+      "lunch": "Chole, Aloo Masala, Raita, Rice, Poori, Achar, Salad, Halwa",
+      "dinner": "Kaithal Masala, Dal Darbari, Jeera Rice, Roti, Achar, Salad, Chutney, Milk"
     },
-    "Saturday": {
-      "date": "01.08.26",
-      "breakfast": "Uttapam - Chutney, Bread Jam, Tea, Cold Coffee, Fruit",
-      "lunch": "Kashmiri Dum Aloo, Veg Biryani, Achar, Salad, Papad, Chutney, Moong Dal Halwa",
-      "dinner": "Gatta Curry, Dal Muglai, Jeera Rice, Roti, Achar, Salad, Milk"
+    "Saturday (08.08.26)": {
+      "breakfast": "Stuff Parantha, Dahi, Achar, Bread Jam, Tea, Fruit",
+      "lunch": "Beans Aloo, Rajma, Rice, Roti, Achar, Salad, Custard",
+      "dinner": "Veg Manchurian, Fried Rice, Nutree Aloo, Roti, Achar, Milk"
     },
-    "Sunday": {
-      "date": "02.08.26",
-      "breakfast": "Mix Veg Parantha, Dahi, Achar, Bread Jam, Tea, Fruit",
-      "lunch": "Nutree Matar, Dal Tadka, Raita, Rice, Roti, Achar, Salad, Besan Ki Burfi",
-      "dinner": "Kadai Paneer, Lobiya, Rice, Roti, Achar, Salad, Milk"
+    "Sunday (09.08.26)": {
+      "breakfast": "Matar - Kulcha, Bread Jam, Tea, Cold Milk, Fruit",
+      "lunch": "Palak Ka Kofta, Dal Fry, Raita, Rice, Roti, Achar, Salad, Shahi Tukda",
+      "dinner": "Paneer Makhani, Egg Curry, Moong Dal, Rice, Roti, Achar, Salad, Milk"
     }
   }
 }
