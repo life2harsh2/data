@@ -1,40 +1,47 @@
 {
-  "last_updated": "2026-08-03T03:35:29Z",
+  "last_updated": "2026-08-11T12:54:19Z",
   "menu": {
-    "Monday (03.08.26)": {
-      "breakfast": "Aloo Sandwich, Bread Jam, Tea, Cold Milk, Fruit",
-      "lunch": "Aloo Masala Dry, Arhar Dal, Raita, Rice, Roti, Achar, Salad, Atta Ka Ladoo",
-      "dinner": "Veg Keema, Rajma, Rice, Roti, Achar, Salad, Green Chutney, Milk"
+    "Monday": {
+      "date": "10.08.26",
+      "Breakfast": "Chana - Poori, Achar, Bread Jam, Tea, Cold Coffee, Fruit",
+      "Lunch": "Aloo Matar, Masoor Sabut Dal, Raita, Rice, Roti, Achar, Salad, Besan Ka Ladoo",
+      "Dinner": "Arbi Masala, Arhar Dal, Jeera Rice, Roti, Achar, Salad, Milk"
     },
-    "Tuesday (04.08.26)": {
-      "breakfast": "Sabji - Parantha, Achar, Bread Jam, Tea, Cold Coffee, Fruit",
-      "lunch": "Tinda Masala, Dal Makahani, Rice, Roti, Achar, Salad, Kheer",
-      "dinner": "Palak Paneer, Mix Dal, Rice, Roti, Achar, Salad, Milk"
+    "Tuesday": {
+      "date": "11.08.26",
+      "Breakfast": "Mix Veg Sandwich, Bread Jam, Tea, Cold Milk, Fruit",
+      "Lunch": "Chole, Kaddu, Raita, Rice, Poori, Achar, Salad, Halwa",
+      "Dinner": "Kadai Veg, Moong Massor Dal, Rice, Roti, Achar, Salad, Milk"
     },
-    "Wednesday (05.08.26)": {
-      "breakfast": "Coleslaw Sandwich, Bread Omelette Jam, Tea, Cold Milk, Fruit",
-      "lunch": "Amritsari Aloo, White Matar, Raita, Rice, Roti, Achar, Salad, Besan Ka Ladoo",
-      "dinner": "Bhindi Do Pyaja, Chana Dal, Rice, Roti, Achar, Salad, Milk"
+    "Wednesday": {
+      "date": "12.08.26",
+      "Breakfast": "Besan Ka Cheela, Green Chutney, Bread Jam, Tea, Cold Coffee, Fruit",
+      "Lunch": "Lauki Ki Sabji, Rajma, Rice, Roti, Achar, Salad, Semiya Ki Kheer",
+      "Dinner": "Paneer Masala, Egg Curry, Mix Dal, Rice, Roti, Achar, Salad, Milk"
     },
-    "Thursday (06.08.26)": {
-      "breakfast": "Namkeen Semiya, Veg Sandwich, Bread Jam, Tea, Cold Coffee, Fruit",
-      "lunch": "Mix Veg, Kadhi Pakoda, Rice, Roti, Achar, Salad, Jalebi",
-      "dinner": "Veg Kofta, Urad Sabut Dal, Rice, Roti, Achar, Salad, Milk"
+    "Thursday": {
+      "date": "13.08.26",
+      "Breakfast": "Stuff Parantha, Dahi, Achar, Bread Jam, Tea, Fruit",
+      "Lunch": "Methi Aloo, Kadhi Pakoda, Rice, Roti, Achar, Salad, Jalebi",
+      "Dinner": "Lauki Ka Kofta, Masoor Dal, Rice, Roti, Achar, Salad, Milk"
     },
-    "Friday (07.08.26)": {
-      "breakfast": "Poha, Daliya, Bread Jam, Tea, Fruit",
-      "lunch": "Chole, Aloo Masala, Raita, Rice, Poori, Achar, Salad, Halwa",
-      "dinner": "Kaithal Masala, Dal Darbari, Jeera Rice, Roti, Achar, Salad, Chutney, Milk"
+    "Friday": {
+      "date": "14.08.26",
+      "Breakfast": "Cocktail Sandwich, French Toast, Bread Jam, Tea, Cold Coffee, Fruit",
+      "Lunch": "Kashmiri Dum Aloo, Veg Biryani, Raita, Roti, Achar, Salad, Papad, Chutney, Besan Ki Burfi",
+      "Dinner": "Aloo Masala Dry, Dal Tadka, Rice, Roti, Achar, Salad, Milk"
     },
-    "Saturday (08.08.26)": {
-      "breakfast": "Stuff Parantha, Dahi, Achar, Bread Jam, Tea, Fruit",
-      "lunch": "Beans Aloo, Rajma, Rice, Roti, Achar, Salad, Custard",
-      "dinner": "Veg Manchurian, Fried Rice, Nutree Aloo, Roti, Achar, Milk"
+    "Saturday": {
+      "date": "15.08.26",
+      "Breakfast": "Mix Pakoda, Veg Sandwich, Jalebi, Achar, Bread Jam, Tea, Fruit",
+      "Lunch": "Matar Paneer, Dal Makhani, Dahi Vada, Pulao, Roti, Achar, Salad",
+      "Dinner": "Shimla Mirch Aloo, Dal Fry, Rice, Roti, Achar, Salad, Milk"
     },
-    "Sunday (09.08.26)": {
-      "breakfast": "Matar - Kulcha, Bread Jam, Tea, Cold Milk, Fruit",
-      "lunch": "Palak Ka Kofta, Dal Fry, Raita, Rice, Roti, Achar, Salad, Shahi Tukda",
-      "dinner": "Paneer Makhani, Egg Curry, Moong Dal, Rice, Roti, Achar, Salad, Milk"
+    "Sunday": {
+      "date": "16.08.26",
+      "Breakfast": "Pav - Bhaji, Bread Jam, Tea, Fruit, Milk",
+      "Lunch": "Cabbage Matar, Urad Sabut Dal, Raita, Rice, Roti, Achar, Salad, Boondi",
+      "Dinner": "Sambhar - Vada, Chutney, Lemon Rice, Jeera Aloo, Roti, Achar, Milk"
     }
   }
 }
